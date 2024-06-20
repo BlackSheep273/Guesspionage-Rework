@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Hast du den Film “Titanic” mehr als zweimal gesehen?",
+      "v": "Hast du den Film <i>Titanic</i> mehr als zweimal gesehen?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "<i>Titanic</i> der Film. Gesamtaufrufe.",
+      "v": "Sinkendes Schiff. Vorreiter für Namen “Jack”.",
       "n": "ExpResults"
     },
     {

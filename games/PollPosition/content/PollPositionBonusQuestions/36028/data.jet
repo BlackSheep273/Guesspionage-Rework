@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "In welcher Sportart wärst du gerne der Weltbeste?",
+      "v": "In welcher Sportart wärst du gerne der beste?",
       "n": "PollQ"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Hockey",
+      "v": "Tischtennis",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "American football",
+      "v": "Schach",
       "n": "Choice3"
     },
     {

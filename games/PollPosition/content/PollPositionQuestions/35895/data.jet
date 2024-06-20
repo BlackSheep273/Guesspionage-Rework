@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute können aufhören zu lesen, wenn in einem Artikel über einen Film oder eine Serie steht “Spoiler-Alarm”?",
+      "v": "Wie viel Prozent der Leute können aufhören zu lesen, wenn in einem Artikel über einen Film oder eine Serie steht: “Spoiler-Alarm”?",
       "n": "QText"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "“Spoiler-Alarm!” steht in einem Artikel über einen Film oder eine Serie, die du sehen möchtest. Kannst du dich kontrollieren?",
+      "v": "In einem Artikel über einen Film oder eine Serie, die du sehen möchtest, steht “Spoiler-Alarm!”. Kannst du dich kontrollieren?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Spoiler-Alarm: Die Antwort ist 23.",
+      "v": "Spoiler-Alarm: Die Antwort ist NICHT 23.",
       "n": "ExpResults"
     },
     {

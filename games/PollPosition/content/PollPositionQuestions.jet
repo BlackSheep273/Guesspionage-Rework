@@ -10,7 +10,7 @@
     {
       "x": false,
       "id": 35611,
-      "category": "Lotto Gewinner",
+      "category": "Lottogewinner",
       "type": "yn"
     },
     {
@@ -88,7 +88,7 @@
     {
       "x": false,
       "id": 35636,
-      "category": "ET",
+      "category": "E.T.",
       "type": "yn"
     },
     {
@@ -154,7 +154,7 @@
     {
       "x": false,
       "id": 35709,
-      "category": "Ovationen",
+      "category": "Standing Ovations",
       "type": "yn"
     },
     {
@@ -256,7 +256,7 @@
     {
       "x": false,
       "id": 35807,
-      "category": "Leser",
+      "category": "Lesen",
       "type": "mc"
     },
     {
@@ -286,7 +286,7 @@
     {
       "x": false,
       "id": 35816,
-      "category": "Zeitreisende",
+      "category": "Zeitreisen",
       "type": "mc"
     },
     {
@@ -340,7 +340,7 @@
     {
       "x": false,
       "id": 35906,
-      "category": "Login Daten",
+      "category": "Login-Daten",
       "type": "mc"
     },
     {
@@ -376,7 +376,7 @@
     {
       "x": false,
       "id": 35920,
-      "category": "Rock ‘n’ Roll Ikonen",
+      "category": "Rock-‘n’-Roll-Ikonen",
       "type": "mc"
     },
     {
@@ -394,7 +394,7 @@
     {
       "x": false,
       "id": 35925,
-      "category": "Eiskalte Autos",
+      "category": "Kühle Autos",
       "type": "mc"
     },
     {
@@ -418,7 +418,7 @@
     {
       "x": true,
       "id": 35986,
-      "category": "Fantasy Bücher",
+      "category": "Fantasy-Bücher",
       "type": "mc"
     },
     {
@@ -478,7 +478,7 @@
     {
       "x": false,
       "id": 36017,
-      "category": "Superhelden Comics",
+      "category": "Superheldencomics",
       "type": "mc"
     },
     {

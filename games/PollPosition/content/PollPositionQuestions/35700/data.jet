@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute in einem Aufzug versuchen schnell die Tür zu schließen statt aufzuhalten für jemanden, der gerade dorthin rennt?",
+      "v": "Wie viel Prozent der Leute in einem Aufzug versuchen, schnell die Tür zu schließen statt aufzuhalten für jemanden, der gerade dorthin rennt?",
       "n": "QText"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du in einem Aufzug bist und jemand rennend versucht noch mitzukommen, was tust du?",
+      "v": "Wenn du in einem Aufzug bist und jemand auf diesen zurennt, um noch einsteigen zu können, was tust du?",
       "n": "PollQ"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Unhöflichkeit beim vertikalen Pendeln. Zurückweisung Fremder.",
+      "v": "Unhöflichkeit beim vertikalen Pendeln. Ablehnung schneller Beinbewegungen.",
       "n": "ExpResults"
     },
     {

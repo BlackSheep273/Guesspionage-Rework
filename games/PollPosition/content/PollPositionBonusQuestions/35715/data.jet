@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Welche Vorspeise bestellst du im restaurant am häufigsten?",
+      "v": "Welche Vorspeise bestellst du im Restaurant am häufigsten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Mozarella Sticks",
+      "v": "Mozzarella-Sticks",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Cheese Fries",
+      "v": "Carpaccio",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Chips & Salsa",
+      "v": "Caprese",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Kartoffelschalen",
+      "v": "Salat",
       "n": "Choice5"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Zwiebelringe",
+      "v": "Onion Rings",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Spinat & Artischoken Dip",
+      "v": "Bruschetta",
       "n": "Choice3"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "t": "S",
-      "v": "Hühnerflügel",
+      "v": "Chicken Wings",
       "n": "Choice1"
     },
     {

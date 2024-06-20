@@ -17,7 +17,7 @@
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "1",
       "n": "PollAns"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Sommer",
+      "v": "Winter",
       "n": "Choice1"
     },
     {
@@ -47,17 +47,12 @@
     },
     {
       "t": "S",
-      "v": "Herbst",
-      "n": "Choice2"
-    },
-    {
-      "t": "S",
-      "v": "Welche Jahreszeit gefällt dir am besten?",
+      "v": "Welche dieser Jahreszeiten gefällt dir am besten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Frühling",
+      "v": "Sommer",
       "n": "Choice0"
     },
     {

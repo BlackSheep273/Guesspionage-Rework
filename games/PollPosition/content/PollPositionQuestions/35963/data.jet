@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Kannst du deine linke und rechte Augenbraue unabhängig voneinander hochziehen?",
+      "v": "Kannst du deine linke und rechte Augenbraue unabhängig voneinander bewegen?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Augenbrauen-Ambidextrie. Zielgenaues links und rechts.",
+      "v": "Augenbrauen-Ambidextrie. Zielgenaue Bewegung links und rechts.",
       "n": "ExpResults"
     },
     {

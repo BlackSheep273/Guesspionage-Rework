@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Roboter-Spionagekolibris",
+      "v": "Laternenspionage",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "Hast du jemals einen Friedhof besucht, auf dem niemand dir Bekannter begraben liegt?",
+      "v": "Hast du jemals einen Friedhof besucht, auf dem kein Bekannter von dir begraben liegt?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Makabre Hobbys. Gräber der Unbekannten.",
+      "v": "Makabre Hobbys. Besuch von Gräbern der Unbekannten.",
       "n": "ExpResults"
     },
     {

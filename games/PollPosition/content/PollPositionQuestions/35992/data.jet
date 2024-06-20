@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Wo tust du deine “privaten” Fotos auf deinem Computer hin?",
+      "v": "Wo speicherst du “private” Fotos auf deinem Computer?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "In den “Bilder” Ordner.",
+      "v": "In den “Bilder”-Ordner.",
       "n": "Choice0"
     },
     {

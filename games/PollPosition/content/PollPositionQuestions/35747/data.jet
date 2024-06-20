@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute würden lieber einen Gutschein von Apple als von Amazon haben?",
+      "v": "Wie viel Prozent der Leute würden lieber einen Gutschein von <i>Apple</i> als von <i>Amazon</i> haben?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "iTunes",
+      "v": "<i>iTunes</i>",
       "n": "Choice1"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "Amazon.com",
+      "v": "<i>Amazon</i>",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Bequeme Geschenkmöglichkeiten: Amazon vs. iTunes.",
+      "v": "Digitale Währungsübermittlung. Plattformabhängig.",
       "n": "ExpResults"
     },
     {

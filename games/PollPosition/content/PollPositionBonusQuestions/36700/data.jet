@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Hühner-Nudelsuppe",
+      "v": "Hühnersuppe",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Sauer-Scharf-Suppe",
+      "v": "Spargelsuppe",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Ofenkartoffelsuppe",
+      "v": "Kürbissuppe",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Eiereinlaufsuppe",
+      "v": "Rinderbrühe",
       "n": "Choice5"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "französische Zwiebelsuppe",
+      "v": "Tomatensuppe",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "sämige Muschelsuppe",
+      "v": "Erbsensuppe",
       "n": "Choice3"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "t": "S",
-      "v": "Tomatensuppe",
+      "v": "Gulaschsuppe",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Brokkoli-Cheddar-Suppe",
+      "v": "Linsensuppe",
       "n": "Choice2"
     },
     {

@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Statt “Viertel vor” oder “Dreiviertel,” wie viel Prozent der Leute sagen’s “15 Minuten vor”?",
+      "v": "Statt “Viertel vor” oder “Dreiviertel”, wie viel Prozent der Leute sagen “15 Minuten vor”?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Abhören",
+      "v": "Armbanduhr-Mikrofone",
       "n": "DataMode"
     },
     {

@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Wie magst du deine Eier?",
+      "v": "Wie bereitest du Eier am liebsten zu?",
       "n": "PollQ"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "hartgekocht",
+      "v": "Hartgekocht",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Ich mag keine Eier",
+      "v": "Ich mag keine Eier.",
       "n": "Choice5"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "pochiert",
+      "v": "Pochiert",
       "n": "Choice6"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "t": "S",
-      "v": "gebraten",
+      "v": "Gebraten",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "gewendetes Spiegelei",
+      "v": "Roh",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "medium",
+      "v": "Weichgekocht",
       "n": "Choice2"
     },
     {

@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Mundgeräusche",
+      "v": "Verspätung bei der Bahn",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Dummheit",
+      "v": "Parkplatzmangel",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "unterbrochen werden",
+      "v": "Langsame Internetverbindung",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "vorsätzliches Ignorieren",
+      "v": "Bürokratie und Papierkram",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "gemeine Leute",
+      "v": "Lärmbelästigung",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "schlechte Autofahrer",
+      "v": "Unhöflichkeit",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Unhöflichkeit",
+      "v": "Stau im Straßenverkehr",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "schlechte Grammatik / Aussprache",
+      "v": "Schlechte Grammatik / Aussprache",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Lügner",
+      "v": "Schlechte Autofahrer",
       "n": "Choice2"
     },
     {

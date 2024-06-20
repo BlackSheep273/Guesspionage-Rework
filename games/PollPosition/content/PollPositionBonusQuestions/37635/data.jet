@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "Was war der beste Gast, der je bei TV Total war?",
+      "v": "Wer war der beste Gast, der je bei TV Total war?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Was war der beste Gast, der je bei TV Total war?",
+      "v": "Wer war der beste Gast, der je bei TV Total war?",
       "n": "PollQ"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Santiago Ziesmer",
+      "v": "Lena Meyer-Landrut",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Maxi Gstettenbauer",
+      "v": "Elton",
       "n": "Choice3"
     },
     {

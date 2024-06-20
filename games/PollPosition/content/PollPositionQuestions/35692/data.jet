@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute sind letzten Monat mindestens einmal bis Mittags im Bett geblieben?",
+      "v": "Wie viel Prozent der Leute sind letzten Monat mindestens einmal bis mittags im Bett geblieben?",
       "n": "QText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Übermäßige Nachruhe. Nachmittägliche REM-Phase.",
+      "v": "Langer Erholungsdrang. Nachmittägliche REM-Phase.",
       "n": "ExpResults"
     },
     {

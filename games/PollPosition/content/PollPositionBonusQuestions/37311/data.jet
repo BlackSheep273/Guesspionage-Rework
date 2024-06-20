@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Spiralpommes",
+      "v": "Klassische Pommes",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Süßkartoffel Pommes",
+      "v": "Käsepommes",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "gewürzte Spiralpommes",
+      "v": "Belgische Pommes",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Lange Pommes",
+      "v": "Süßkartoffel-Pommes",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "gewürzte Pommes",
+      "v": "Chili Cheese Fries",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "normale Pommes",
+      "v": "Curly Fries",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "gewellte Pommes",
+      "v": "Waffel-Pommes",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Steak Pommes",
+      "v": "Crinkle-Cut",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Kartoffelwaffeln",
+      "v": "Steak Fries",
       "n": "Choice2"
     },
     {

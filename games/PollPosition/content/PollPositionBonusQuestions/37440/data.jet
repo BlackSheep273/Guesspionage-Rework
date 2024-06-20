@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Basketball",
+      "v": "Tennis",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Tennis",
+      "v": "Dressurreiten",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Kricket",
+      "v": "Curling",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Curling",
+      "v": "Basketball",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "American football",
+      "v": "Angeln",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Alles",
+      "v": "Schach",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Baseball",
+      "v": "Darts",
       "n": "Choice1"
     },
     {

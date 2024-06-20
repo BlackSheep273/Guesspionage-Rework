@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Wenn du ein Echo oder Brummen während deines Telefongesprächs hörst, was ist deiner Meinung nach die Ursache?",
+      "v": "Was ist deiner Meinung nach die Ursache, wenn du während eines Telefongesprächs ein Echo oder ein Brummen hörst?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "schlechte Verbindung",
+      "v": "Schlechte Verbindung",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "elektronische Störung",
+      "v": "Elektronische Störung",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "eigene Schuld",
+      "v": "Eigene Schuld",
       "n": "Choice8"
     },
     {
@@ -102,17 +102,17 @@
     },
     {
       "t": "S",
-      "v": "eingehender Anruf",
+      "v": "Eingehender Anruf",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "der Gesprächspartner",
+      "v": "Der Gesprächspartner",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "defektes Telefon",
+      "v": "Defektes Telefon",
       "n": "Choice4"
     },
     {

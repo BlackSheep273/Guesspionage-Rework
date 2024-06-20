@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Rechter Arm",
+      "v": "vom rechten Arm",
       "n": "Choice1"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "Left arm",
+      "v": "vom linken Arm",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Aderlassprobleme. Armpräferenz.",
+      "v": "Körperflüssigkeitsentnahme. Armpräferenz.",
       "n": "ExpResults"
     },
     {

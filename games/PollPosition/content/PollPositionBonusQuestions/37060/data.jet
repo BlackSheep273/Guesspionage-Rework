@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Videospiele",
+      "v": "Unentschlossenheit",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Pornografie",
+      "v": "Mangelnde Selbstbeherrschung",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Limonade",
+      "v": "Perfektionismus",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Fast Food",
+      "v": "Schlechte Kommunikation",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Faulheit",
+      "v": "Ungeduld",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Süßigkeiten",
+      "v": "Angst vor Veränderung",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "überfressen",
+      "v": "Vergesslichkeit",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Zigaretten",
+      "v": "Faulheit",
       "n": "Choice2"
     },
     {

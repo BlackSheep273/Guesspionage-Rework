@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute würden ihren Job weitermachen, wenn sie 900 Millionen € in einer Lotterie gewinnen würden?",
+      "v": "Wie viel Prozent der Leute würden ihren Job weitermachen, wenn sie 900 Millionen Euro in einer Lotterie gewinnen würden?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Falls du 900 Millionen € in einer Lotterie gewinnen solltest, würdest du deinen Job weitermachen?",
+      "v": "Falls du 900 Millionen Euro in einer Lotterie gewinnen solltest, würdest du deinen Job weitermachen?",
       "n": "PollQ"
     },
     {

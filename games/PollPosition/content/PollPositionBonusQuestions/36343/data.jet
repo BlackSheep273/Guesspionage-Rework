@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "heiraten",
+      "v": "Heiraten",
       "n": "Choice5"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "nach Hawaii reisen",
+      "v": "Briefe schreiben",
       "n": "Choice6"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "t": "S",
-      "v": "nach Europa reisen",
+      "v": "Glücksspiel",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Skydive",
+      "v": "Skydiving",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "nach Japan reisen",
+      "v": "Eine berühmte Person treffen",
       "n": "Choice2"
     },
     {

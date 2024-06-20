@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Social Media Datenauswertung",
+      "v": "Social-Media-Datenauswertung",
       "n": "DataMode"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Wen bevorzugst du?",
+      "v": "Welche Band bevorzugst du?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Beatles",
+      "v": "Die Beatles",
       "n": "Choice0"
     },
     {

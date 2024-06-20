@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Wie weit lässt du im Normalfall deine Tankanzeige gehen vorm Nachtanken?",
+      "v": "Wie weit lässt du im Normalfall deine Tankanzeige gehen, bevor du nachtankst?",
       "n": "PollQ"
     },
     {

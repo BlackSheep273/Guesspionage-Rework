@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "Welche Milka-Schokolade mögen die Leute am meisten?",
+      "v": "Welche <i>Milka</i>-Schokolade mögen die Leute am meisten?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Was ist deine Lieblingssorte von der Milka-Schokolade?",
+      "v": "Was ist deine Lieblingsschokolade von <i>Milka</i>?",
       "n": "PollQ"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "t": "S",
-      "v": "Traube-Nuss",
+      "v": "Trauben-Nuss",
       "n": "Choice7"
     },
     {

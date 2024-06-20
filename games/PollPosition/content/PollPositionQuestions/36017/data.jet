@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute ziehen DC Comics Charaktere (Superman, Batman, etc.) den Marvel Charakteren (Iron Man, Captain America, etc.) vor?",
+      "v": "Wie viel Prozent der Leute ziehen <i>DC-Comics</i>-Charaktere (Superman, Batman, etc.) den <i>Marvel</i>-Charakteren (Iron Man, Captain America, etc.) vor?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Marvel Comics",
+      "v": "<i>Marvel</i>",
       "n": "Choice1"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Bevorzugst du DC Comics Charaktere (Superman, Batman, etc.) oder Marvel Charaktere (Iron Man, Captain America, etc.)?",
+      "v": "Bevorzugst du <i>DC-Comics</i>-Charaktere (Superman, Batman, etc.) oder <i>Marvel</i>-Charaktere (Iron Man, Captain America, etc.)?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "DC Comics",
+      "v": "<i>DC Comics</i>",
       "n": "Choice0"
     },
     {

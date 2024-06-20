@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Welches bisher unbesuchte Land würdest du am liebsten einmal bereisen?",
+      "v": "Welches von dir noch nicht besuchte Land würdest du am liebsten einmal bereisen?",
       "n": "PollQ"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Deutschland",
+      "v": "Vereinigte Staaten von Amerika",
       "n": "Choice5"
     },
     {

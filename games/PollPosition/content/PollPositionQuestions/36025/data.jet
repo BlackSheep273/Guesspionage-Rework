@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Social Media Datenauswertung",
+      "v": "Social-Media-Datenauswertung",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "Bist du mit jemandem ausgegangen, der vorher mit einem guten Bekannten ausgegangen ist?",
+      "v": "Bist du schon einmal mit jemandem ausgegangen, der vorher mit einem guten Bekannten ausgegangen ist?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Ex-Liebhaber-Dreieck Zweite Chance.",
+      "v": "Ex-Liebhaber-Dreieck. Zweite Chance.",
       "n": "ExpResults"
     },
     {

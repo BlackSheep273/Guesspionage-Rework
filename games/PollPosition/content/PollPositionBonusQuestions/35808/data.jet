@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "lebendig begraben werden",
+      "v": "LKebendig begraben werden",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "ertrinken",
+      "v": "Ertrinken",
       "n": "Choice6"
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "t": "S",
-      "v": "Social Media Datenanalyse",
+      "v": "Social-Media-Datenanalyse",
       "n": "DataMode"
     },
     {

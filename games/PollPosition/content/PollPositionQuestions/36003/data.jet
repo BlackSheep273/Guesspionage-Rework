@@ -47,17 +47,17 @@
     },
     {
       "t": "S",
-      "v": "Ein Bild meines/meiner Kind/er.",
+      "v": "Ein Bild von Familienmitgliedern.",
       "n": "Choice2"
     },
     {
       "t": "S",
-      "v": "Was würdest du als Hintergrund für den Computer oder Smartphone verwenden?",
+      "v": "Was hast du als Hintergrundbild auf deinem Computer oder deinem Smartphone?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Ein Bild von etwas anderem bedeutenden.",
+      "v": "etwas anderes.",
       "n": "Choice0"
     },
     {

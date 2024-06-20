@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute fühlen sich verpflichtet, die Social Media Posts von Freunden zu liken?",
+      "v": "Wie viel Prozent der Leute fühlen sich verpflichtet, die Social-Media-Posts von Freunden zu liken?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Social Media Datenauswertung",
+      "v": "Social-Media-Datenauswertung",
       "n": "DataMode"
     },
     {
       "t": "S",
-      "v": "Fühlst du dich verpflichtet, den Social Media Posts von Freunden einen Like zu geben?",
+      "v": "Fühlst du dich verpflichtet, die Social-Media-Posts deiner Freunde zu liken?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Facebook-Verhalten. Zustimmungsverpflichtung.",
+      "v": "Internet-Verhalten. Zustimmungszwang.",
       "n": "ExpResults"
     },
     {

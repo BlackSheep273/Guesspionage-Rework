@@ -72,12 +72,12 @@
     },
     {
       "t": "S",
-      "v": "Indeed Ingrid",
+      "v": "Indeed-Ingrid",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Michelin Mann",
+      "v": "Michelin-Mann",
       "n": "Choice7"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Chester (Cheeto)",
+      "v": "Marlboro-Mann",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Bunny (Duracell)",
+      "v": "Duracell-Hase",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Carglass Sprecher",
+      "v": "Bernd das Brot",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Mr Proper",
+      "v": "Meister Proper",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Check24 Familie",
+      "v": "Milka-Kuh",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Seitenbacher Sprecher",
+      "v": "Mainzelmännchen",
       "n": "Choice2"
     },
     {

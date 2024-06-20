@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Social Media Datenauswertung",
+      "v": "Social-Media-Datenauswertung",
       "n": "DataMode"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Einlogstress. Benutzername vs. Kennwort.",
+      "v": "Anmeldestress. Benutzername vs. Kennwort.",
       "n": "ExpResults"
     },
     {

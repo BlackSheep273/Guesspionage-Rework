@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben versucht, einen E-Mail Betrüger zu verspotten, auszutricksen oder zu schikanieren?",
+      "v": "Wie viel Prozent der Leute haben versucht, einen E-Mail-Betrüger zu verspotten, auszutricksen oder zu schikanieren?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du schon einmal versucht, einen E-Mail Betrüger zu verspotten, auszutricksen oder zu schikanieren?",
+      "v": "Hast du schon einmal versucht, einen E-Mail-Betrüger zu verspotten, auszutricksen oder zu schikanieren?",
       "n": "PollQ"
     },
     {

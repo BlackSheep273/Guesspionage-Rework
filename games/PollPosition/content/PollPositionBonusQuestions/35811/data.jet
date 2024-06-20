@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Welcher Muppet ist der Beliebteste?",
+      "v": "Welcher Muppet ist der beliebteste?",
       "n": "QText"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "t": "S",
-      "v": "Waldorf & Statler",
+      "v": "Waldorf und Statler",
       "n": "Choice7"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "Rolf der Hund",
+      "v": "Rowlf der Hund",
       "n": "Choice6"
     },
     {
